@@ -1,0 +1,88 @@
+.tree-view {
+  flex-grow: 1 !important;
+  direction: ltr !important;
+  font-size: 1.1rem !important;
+  margin-top: 20px !important;
+  width: 90% !important;
+  color: rgb(255, 210, 48) !important;
+  flex-grow: 1 !important;
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+  height: 450px !important;
+}
+
+.box-container {
+  width: 100% !important;
+  height: 20% !important;
+  /* border: 1px solid #718093 !important; */
+  display: flex;
+  flex-direction: column;
+}
+
+.view {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 30% !important;
+  height: 100% !important;
+  /* border: 1px solid #718093 !important; */
+}
+
+.box-tree {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 80% !important;
+  margin-top: 20px !important;
+  margin-left: 20px !important;
+  background-color: #292f38 !important;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4) !important;
+}
+
+.box-details {
+  width: 58% !important;
+  height: 83% !important;
+  margin-top: 20px !important;
+  position: absolute !important;
+  margin-left: 30% !important;
+  background-color: #292f38 !important;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4) !important;
+}
+
+.container-details {
+  display: flex !important;
+  height: 95% !important;
+  flex-direction: column !important;
+  width: 80% !important;
+  margin-top: 30px !important;
+  margin-left: 10% !important;
+}
+
+.row {
+  display: flex !important;
+  flex-direction: row !important;
+  margin-top: 30px !important;
+}
+
+.field1 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  width: 25% !important;
+  text-align: left !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  color: #8f8a8a !important;
+}
+
+.field2 {
+  font-size: 20px !important;
+  width: 75% !important;
+  text-align: left !important;
+  color: white !important;
+  font-family: Josefin Sans !important;
+  margin-left: 20px !important;
+}

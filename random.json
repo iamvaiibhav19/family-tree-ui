@@ -1,0 +1,318 @@
+{
+  "id": "root",
+  "Name": "John Doe",
+  "Spouse": "Jane Doe",
+  "Location": "London, UK",
+  "Birth Year": "1980",
+  "Present Address": "London, UK",
+  "Family Photo": ["https://www.familyphoto.com/john-doe"],
+  "children": {
+    "child1": {
+      "id": "child1",
+      "Name": "Emma Doe",
+      "Spouse": "Tom Smith",
+      "Location": "Manchester, UK",
+      "Birth Year": "2000",
+      "Present Address": "Manchester, UK",
+      "Family Photo": ["https://www.familyphoto.com/emma-doe"],
+      "children": {
+        "grandchild1": {
+          "id": "grandchild1",
+          "Name": "Emily Smith",
+          "Spouse": "None",
+          "Location": "Manchester, UK",
+          "Birth Year": "2022",
+          "Present Address": "Manchester, UK",
+          "Family Photo": ["https://www.familyphoto.com/emily-smith"],
+          "children": {
+            "greatgrandchild1": {
+              "id": "greatgrandchild1",
+              "Name": "Ella Smith",
+              "Spouse": "None",
+              "Location": "Manchester, UK",
+              "Birth Year": "2040",
+              "Present Address": "Manchester, UK",
+              "Family Photo": ["https://www.familyphoto.com/ella-smith"],
+              "children": {
+                "greatgreatgrandchild1": {
+                  "id": "greatgreatgrandchild1",
+                  "Name": "Eva Smith",
+                  "Spouse": "None",
+                  "Location": "Manchester, UK",
+                  "Birth Year": "2060",
+                  "Present Address": "Manchester, UK",
+                  "Family Photo": ["https://www.familyphoto.com/eva-smith"],
+                  "children": {
+                    "greatgreatgreatgrandchild1": {
+                      "id": "greatgreatgreatgrandchild1",
+                      "Name": "Eve Smith",
+                      "Spouse": "None",
+                      "Location": "Manchester, UK",
+                      "Birth Year": "2080",
+                      "Present Address": "Manchester, UK",
+                      "Family Photo": ["https://www.familyphoto.com/eve-smith"],
+                      "children": {
+                        "greatgreatgreatgreatgrandchild1": {
+                          "id": "greatgreatgreatgreatgrandchild1",
+                          "Name": "Eddie Smith",
+                          "Spouse": "None",
+                          "Location": "Manchester, UK",
+                          "Birth Year": "2100",
+                          "Present Address": "Manchester, UK",
+                          "Family Photo": [
+                            "https://www.familyphoto.com/eddie-smith"
+                          ],
+                          "children": {
+                            "greatgreatgreatgreatgreatgrandchild1": {
+                              "id": "greatgreatgreatgreatgreatgrandchild1",
+                              "Name": "Ella Smith",
+                              "Spouse": "None",
+                              "Location": "Manchester, UK",
+                              "Birth Year": "2120",
+                              "Present Address": "Manchester, UK",
+                              "Family Photo": [
+                                "https://www.familyphoto.com/ella-smith"
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "child2": {
+      "id": "child2",
+      "Name": "Olivia Doe",
+      "Spouse": "None",
+      "Location": "London, UK",
+      "Birth Year": "2002",
+      "Present Address": "London, UK",
+      "Family Photo": ["https://www.familyphoto.com/olivia-doe"],
+      "children": {
+        "grandchild2": {
+          "id": "grandchild2",
+          "Name": "Oliver Doe",
+          "Spouse": "None",
+          "Location": "London, UK",
+          "Birth Year": "2024",
+          "Present Address": "London, UK",
+          "Family Photo": ["https://www.familyphoto.com/oliver-doe"],
+          "children": {
+            "greatgrandchild2": {
+              "id": "greatgrandchild2",
+              "Name": "Oscar Doe",
+              "Spouse": "None",
+              "Location": "London, UK",
+              "Birth Year": "2044",
+              "Present Address": "London, UK",
+              "Family Photo": ["https://www.familyphoto.com/oscar-doe"],
+              "children": {
+                "greatgreatgrandchild2": {
+                  "id": "greatgreatgrandchild2",
+                  "Name": "Owen Doe",
+                  "Spouse": "None",
+                  "Location": "London, UK",
+                  "Birth Year": "2064",
+                  "Present Address": "London, UK",
+                  "Family Photo": ["https://www.familyphoto.com/owen-doe"],
+                  "children": {
+                    "greatgreatgreatgrandchild2": {
+                      "id": "greatgreatgreatgrandchild2",
+                      "Name": "Ollie Doe",
+                      "Spouse": "None",
+                      "Location": "London, UK",
+                      "Birth Year": "2084",
+                      "Present Address": "London, UK",
+                      "Family Photo": ["https://www.familyphoto.com/ollie-doe"],
+                      "children": {
+                        "greatgreatgreatgreatgrandchild2": {
+                          "id": "greatgreatgreatgreatgrandchild2",
+                          "Name": "Oscar Doe",
+                          "Spouse": "None",
+                          "Location": "London, UK",
+                          "Birth Year": "2104",
+                          "Present Address": "London, UK",
+                          "Family Photo": [
+                            "https://www.familyphoto.com/oscar-doe"
+                          ],
+                          "children": {
+                            "greatgreatgreatgreatgreatgrandchild2": {
+                              "id": "greatgreatgreatgreatgreatgrandchild2",
+                              "Name": "Olive Doe",
+                              "Spouse": "None",
+                              "Location": "London, UK",
+                              "Birth Year": "2124",
+                              "Present Address": "London, UK",
+                              "Family Photo": [
+                                "https://www.familyphoto.com/olive-doe"
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "child3": {
+      "id": "child3",
+      "Name": "Sophia Doe",
+      "Spouse": "None",
+      "Location": "Liverpool, UK",
+      "Birth Year": "2004",
+      "Present Address": "Liverpool, UK",
+      "Family Photo": ["https://www.familyphoto.com/sophia-doe"],
+      "children": {
+        "grandchild3": {
+          "id": "grandchild3",
+          "Name": "Harry Doe",
+          "Spouse": "None",
+          "Location": "Liverpool, UK",
+          "Birth Year": "2026",
+          "Present Address": "Liverpool, UK",
+          "Family Photo": ["https://www.familyphoto.com/harry-doe"],
+          "children": {
+            "greatgrandchild3": {
+              "id": "greatgrandchild3",
+              "Name": "Henry Doe",
+              "Spouse": "None",
+              "Location": "Liverpool, UK",
+              "Birth Year": "2046",
+              "Present Address": "Liverpool, UK",
+              "Family Photo": ["https://www.familyphoto.com/henry-doe"],
+              "children": {
+                "greatgreatgrandchild3": {
+                  "id": "greatgreatgrandchild3",
+                  "Name": "Harvey Doe",
+                  "Spouse": "None",
+                  "Location": "Liverpool, UK",
+                  "Birth Year": "2066",
+                  "Present Address": "Liverpool, UK",
+                  "Family Photo": ["https://www.familyphoto.com/harvey-doe"],
+                  "children": {
+                    "greatgreatgreatgrandchild3": {
+                      "id": "greatgreatgreatgrandchild3",
+                      "Name": "Harley Doe",
+                      "Spouse": "None",
+                      "Location": "Liverpool, UK",
+                      "Birth Year": "2086",
+                      "Present Address": "Liverpool, UK",
+                      "Family Photo": [
+                        "https://www.familyphoto.com/harley-doe"
+                      ],
+                      "children": {
+                        "greatgreatgreatgreatgrandchild3": {
+                          "id": "greatgreatgreatgreatgrandchild3",
+                          "Name": "Harriet Doe",
+                          "Spouse": "None",
+                          "Location": "Liverpool, UK",
+                          "Birth Year": "2106",
+                          "Present Address": "Liverpool, UK",
+                          "Family Photo": [
+                            "https://www.familyphoto.com/harriet-doe"
+                          ],
+                          "children": {
+                            "greatgreatgreatgreatgreatgrandchild3": {
+                              "id": "greatgreatgreatgreatgreatgrandchild3",
+                              "Name": "Harper Doe",
+                              "Spouse": "None",
+                              "Location": "Liverpool, UK",
+                              "Birth Year": "2126",
+                              "Present Address": "Liverpool, UK",
+                              "Family Photo": [
+                                "https://www.familyphoto.com/harper-doe"
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "child4": {
+      "id": "child4",
+      "Name": "Amelia Doe",
+      "Spouse": "None",
+      "Location": "Manchester, UK",
+      "Birth Year": "2006",
+      "Present Address": "Manchester, UK",
+      "Family Photo": ["https://www.familyphoto.com/amelia-doe"],
+      "children": {
+        "grandchild4": {
+          "id": "grandchild4",
+          "Name": "Jack Doe",
+          "Spouse": "None",
+          "Location": "Manchester, UK",
+          "Birth Year": "2028",
+          "Present Address": "Manchester, UK",
+          "Family Photo": ["https://www.familyphoto.com/jack-doe"],
+          "children": {
+            "greatgrandchild4": {
+              "id": "greatgrandchild4",
+              "Name": "Jacob Doe",
+              "Spouse": "None",
+              "Location": "Manchester, UK",
+              "Birth Year": "2048",
+              "Present Address": "Manchester, UK",
+              "Family Photo": ["https://www.familyphoto.com/jacob-doe"],
+              "children": {
+                "greatgreatgrandchild4": {
+                  "id": "greatgreatgrandchild4",
+                  "Name": "James Doe",
+                  "Spouse": "None",
+                  "Location": "Manchester, UK",
+                  "Birth Year": "2068",
+                  "Present Address": "Manchester, UK",
+                  "Family Photo": ["https://www.familyphoto.com/james-doe"],
+                  "children": {
+                    "greatgreatgreatgrandchild4": {
+                      "id": "greatgreatgreatgrandchild4",
+                      "Name": "Joshua Doe",
+                      "Spouse": "None",
+                      "Location": "Manchester, UK",
+                      "Birth Year": "2088",
+                      "Present Address": "Manchester, UK",
+                      "Family Photo": [
+                        "https://www.familyphoto.com/joshua-doe"
+                      ],
+                      "children": {
+                        "greatgreatgreatgreatgrandchild4": {
+                          "id": "greatgreatgreatgreatgrandchild4",
+                          "Name": "Joseph Doe",
+                          "Spouse": "None",
+                          "Location": "Manchester, UK",
+                          "Birth Year": "2108",
+                          "Present Address": "Manchester, UK",
+                          "Family Photo": [
+                            "https://www.familyphoto.com/joseph-doe"
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

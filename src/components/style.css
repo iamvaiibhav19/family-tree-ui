@@ -1,0 +1,32 @@
+.title-tree {
+    font-size: 30px !important;
+    font-weight: bold !important;
+    margin-bottom: 10px !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 10px !important;
+    background-color: #718093 !important;
+    font-family: Josefin Sans !important;
+    color: white !important;
+}
+.title-details {
+    font-size: 30px !important;
+    font-weight: bold !important;
+    margin-bottom: 10px !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 10px !important;
+    background-color: #3AA52A !important;
+    font-family: Josefin Sans !important;
+    color: white !important;
+}
+
+.search {
+    width: 90% !important;
+    margin-top: 20px !important;
+    background-color: #1d222b !important;
+    border: none !important;
+    color: white !important;
+    height:  40px !important;
+    font-size: 20px !important;
+}
